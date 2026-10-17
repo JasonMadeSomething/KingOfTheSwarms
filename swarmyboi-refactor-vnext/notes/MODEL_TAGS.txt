@@ -1,0 +1,26 @@
+Hank
+model: ['GPT-6 Astra', 'GPT-5.6 Sol', 'Claude Opus 5.5', 'Claude Opus 5']
+
+Daria
+model: ['Claude Opus 5.5', 'GPT-6 Astra', 'GPT-5.6 Sol', 'Claude Sonnet 5.5']
+
+Bobby
+model: ['Claude Sonnet 5.5', 'Claude Sonnet 5', 'GPT-5.6 Sol', 'GPT-5 mini']
+
+Beavis
+model: ['Claude Sonnet 5.5', 'Claude Sonnet 5', 'Claude Opus 5.5', 'GPT-5.3-Codex']
+
+Butthead
+model: ['GPT-5.3-Codex', 'GPT-5.6 Sol', 'Claude Sonnet 5.5', 'Claude Sonnet 5']
+
+Gwen
+model: ['GPT-6 Astra', 'Claude Opus 5.5', 'GPT-5.6 Sol', 'Claude Opus 5']
+
+Peggy
+model: ['Claude Opus 5.5', 'Claude Opus 5', 'GPT-6 Astra', 'GPT-5.6 Sol']
+
+Nerd
+model: ['Claude Sonnet 5.5', 'Claude Sonnet 5', 'GPT-5.6 Sol', 'GPT-5 mini']
+
+Librarian
+model: ['Claude Sonnet 5.5', 'GPT-5.6 Sol', 'Claude Sonnet 5', 'GPT-5 mini']
